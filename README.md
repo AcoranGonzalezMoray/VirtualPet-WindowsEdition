@@ -683,9 +683,9 @@ The solution consists of two main projects:
    - Contains abstract classes reusable across the forms.
 
 ---
-### `PathArquitecture` Class
+### `PathArchitecture` Class
 
-The `PathArquitecture` class is responsible for managing all paths within the project, differentiating between:
+The `PathArchitecture` class is responsible for managing all paths within the project, differentiating between:
 
 - Operating systems: `x64` and `x86`.
 - Execution modes: `Release` or `Debug`.
