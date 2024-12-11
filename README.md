@@ -50,7 +50,8 @@ VirtualPet is an all-in-one app that integrates features like AI-powered interac
 
 ## 🚀 Demo
 
-https://github.com/user-attachments/assets/ed26d891-7ab7-4ba0-b7e4-da6771ea17b8
+https://github.com/user-attachments/assets/4e158f76-3b60-4190-ae40-4b4fc79eee32
+
 
 ## ✨ Features
 
