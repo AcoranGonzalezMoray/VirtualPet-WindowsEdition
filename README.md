@@ -33,13 +33,13 @@
 <table style="border: none;">
   <tr>
     <td style="padding-right: 20px;">
-      <img src="VirtualPet/Assets/Pet/mascota_R.gif" alt="VirtualPet Logo" style="width: 335px;" />
+      <img src="./AssetsDoc/mascota_R.gif" alt="VirtualPet Logo" style="width: 335px;" />
     </td>
     <td>     
 VirtualPet is an all-in-one app that integrates features like AI-powered interactive offline chat, image generation, OCR capabilities, an AI-powered code editor, a built-in web browser, a mini video player, shortcut management, and access to public anime content for local viewing and much more, all within a seamless user interface.
     </td>
     <td style="padding-right: 20px;">
-      <img src="VirtualPet/Assets/Pet/mascota_L.gif" alt="VirtualPet Logo" style="width: 335px;" />
+      <img src="./AssetsDoc/mascota_L.gif" alt="VirtualPet Logo" style="width: 335px;" />
     </td>
   </tr>
 </table>
